@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cheems2</string>
+    <string name="btn_restart">Restart</string>
+    <string name="text_game_over">Game over! Try again</string>
+    <string name="text_win">You win</string>
+</resources>
