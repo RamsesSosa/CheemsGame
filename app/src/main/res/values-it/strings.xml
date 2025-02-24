@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cheems2</string>
+    <string name="btn_restart">Riavvia</string>
+    <string name="text_game_over">Hai perso riprovare</string>
+    <string name="text_win">Hai vinto, congratulazioni</string>
+    <string name="text_welcome">Benvenuti nell applicazione</string>
+    <string name="btn_flip">lancia le carte</string>
+</resources>
