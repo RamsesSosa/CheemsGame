@@ -3,4 +3,6 @@
     <string name="btn_restart">Reiniciar</string>
     <string name="text_game_over">Perdiste, intenta otra vez</string>
     <string name="text_win">Ganaste, felicidades</string>
+    <string name="text_welcome">Bienvenido a la aplicacion</string>
+    <string name="btn_flip">Voltear las cartas</string>
 </resources>

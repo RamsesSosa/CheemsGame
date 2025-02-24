@@ -4,4 +4,6 @@
     <string name="btn_restart">Restart</string>
     <string name="text_game_over">Game over! Try again</string>
     <string name="text_win">You win</string>
+    <string name="text_welcome">Welcome to the application</string>
+    <string name="btn_flip">Flip the cards</string>
 </resources>
