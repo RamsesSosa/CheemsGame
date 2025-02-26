@@ -137,7 +137,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
     fun flipped(){
         for(i in 1..12){
-        val btnCard = findViewById<View>(
+            val btnCard = findViewById<View>(
             resources.getIdentifier("card$i", "id", this.packageName)
         ) as ImageButton
             if(gameOverCard ==i){
